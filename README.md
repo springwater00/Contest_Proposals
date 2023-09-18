@@ -15,7 +15,7 @@
 **Host** : 고용노동부  
 **Title** : EmoView (이모뷰)  
 **Description**  
-AI 면접 서비스. 실시간으로 지원자의 감정상태를 영상 음성 텍스트로 분석하여 객관적인 데이터를 기업에게 리포팅하는 서비스    
+AI 면접 서비스. 실시간으로 지원자의 감정상태를 영상 음성 텍스트로 분석하여 기업에게 리포팅하는 서비스    
 **Used skills**  
 1. 실시간 감정 분류가 가능한 Tensor Fusion-Mixer AI model   
 2. STT, ChatGPT API 처리 기능  
