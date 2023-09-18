@@ -26,12 +26,12 @@ AI 면접 서비스. 실시간으로 지원자의 감정상태를 영상 음성 
 **Title** : 인공지능 모형을 이용한 해양 유정 데이터셋 이상징후 감지  
 **Description**  
 3W 유정 데이터셋을 이용한 해양 유정 이상사건 탐지 classification  
+**Link**  
+https://github.com/lofootve/geo-con  
 **Models**   
 1. Masked late fusion CNN (Accuracy: 0.99)  
 2. Stacked ML with TabNet  
 3. Real time TabNet  
-**Link**  
-https://github.com/lofootve/geo-con  
 
 ## 2023 유통데이터 활용 경진대회
 **Host** : 대한상공회의소  
