@@ -2,15 +2,21 @@
 2022-2023 각종 AI 경진대회 최종제안서 모음
 
 ## 2022 제2회 소방안전 AI 예측 경진대회 (준우승)
-**Host** : 강원도 소방본부  
-**Description** : 월말일의 구급출동 수요 및 장소 예측 Classfication  
-**Models** : DecisionTree, XGBoost, LightGBM 사용 후, TabNet Stacking  
+### Host
+강원도 소방본부  
+### Description
+월말일의 구급출동 수요 및 장소 예측 Classfication  
+### Models
+DecisionTree, XGBoost, LightGBM 사용 후, TabNet Stacking  
 
 ## 2023 KDT 경진대회
-**Host** : 고용노동부  
-**Title** : EmoView (이모뷰)  
-**Description** : AI 면접 서비스. 실시간으로 지원자의 감정상태를 영상 음성 텍스트로 분석하여 객관적인 데이터를 기업에게 리포팅하는 서비스  
-**Used skills** 
+### Host
+고용노동부  
+### Title
+EmoView (이모뷰)  
+### Description
+AI 면접 서비스. 실시간으로 지원자의 감정상태를 영상 음성 텍스트로 분석하여 객관적인 데이터를 기업에게 리포팅하는 서비스  
+### Used skills 
 1. 실시간 감정 분류가 가능한 Tensor Fusion-Mixer AI model   
 2. STT, ChatGPT API 처리 기능  
 3. KoBERT NLP 에 기반한 텍스트 감정분류  
