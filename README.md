@@ -30,6 +30,8 @@ AI 면접 서비스. 실시간으로 지원자의 감정상태를 영상 음성 
 1. Masked late fusion CNN (Accuracy: 0.99)  
 2. Stacked ML with TabNet  
 3. Real time TabNet  
+**Link**  
+https://github.com/lofootve/geo-con  
 
 ## 2023 유통데이터 활용 경진대회
 **Host** : 대한상공회의소  
